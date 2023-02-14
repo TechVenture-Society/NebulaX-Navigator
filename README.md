@@ -11,16 +11,16 @@
 
 ## About
 
-About Text Here
+This is a space navigator. Specifies the distance, speed, and direction of an object. These are stars, galaxies and asteroids. Estimates the speed of asteroids and other objects flying in space, flying dangerously or not. This is all done by AI, I just wrote the code. Data taken from open sources.
+The first object is the International Space Station. Why? it is the only flying ship in space with people.
+Secondly, where do you want to fly.
+This navigator will show the trajectory where to fly, for example, to Mars. It will show how much to fly to Mars and also counts in meters, kilometers. Over time, I will add other metric systems of measurement.
+                                                                               
+                                                                               
+## Install from Releases
 
-## Documentation
-
-Documentation Here
-
-## Distribute
-
-- [Service Name](Page Link)
-
+Download latest release.
+                                                                              
 
 ## Developers
 
