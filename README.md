@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-   <img src="https://img.shields.io/badge/Virsion-v1.0(GPL--3.0)-blue" alt="License">
-   <img src="https://img.shields.io/badge/license-GPL--3.0-green" alt="License">
+   <img src="https://img.shields.io/badge/Virsion-v1.0(AGPL--3.0)-blue" alt="License">
+   <img src="https://img.shields.io/badge/license-AGPL--3.0-green" alt="License">
 </p>
 
 ## About
