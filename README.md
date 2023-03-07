@@ -11,9 +11,7 @@
 
 ## About
 
-This is a space navigator. It determines the distance, speed and direction of an object. These are stars, galaxies and asteroids, etc. Estimates the speed of an object, whether it is dangerous or not, if it flies in your direction. It also evaluates the trajectory that should be taken as quickly and reliably as possible, for example, to Mars. It will show how much to fly to Mars. All this is done by AI. Data taken from open sources.
-
-                                                                               
+                                                                       
                                                                                
 ## Install from Releases
 
