@@ -11,7 +11,7 @@
 
 ## About
 
-The Nebula-Navigators program is an advanced artificial intelligence (AI) system designed to facilitate space navigation and exploration. This program was developed by me with the goal of creating a reliable and efficient tool for deep space exploration.
+The Nebula-Navigators program is an advanced artificial intelligence (Suii helps with this) system designed to facilitate space navigation and exploration. This program was developed by me with the goal of creating a reliable and efficient tool for deep space exploration.
 
 The program uses sophisticated algorithms and machine learning techniques to process vast amounts of data from a variety of sources, including telescopes, satellites, and other space-based instruments. This data is then used to create detailed maps of the environment that can be used to build safe and efficient routes in space.
 
