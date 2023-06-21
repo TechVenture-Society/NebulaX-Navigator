@@ -1,7 +1,7 @@
 # NebulaX-Navigator
 
 <p align="center">
-      <img src="https://i.imgur.com/mNVgxyt.png" Project Logo Url" width="300">
+      
 </p>
 
 <p align="center">
